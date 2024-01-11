@@ -17,4 +17,4 @@ Interactive Elements: The page includes interactive elements like buttons.
 Responsive Design: The page is designed to be responsive, offering a seamless experience across various devices and screen sizes.
 
 ## Challenges Encountered
-### Responsiveness Ensuring that the page looks good on all screen sizes was a challenge. We used a responsive grid layout and media queries to overcome this challenge.
+Responsiveness Ensuring that the page looks good on all screen sizes was a challenge. We used a responsive grid layout and media queries to overcome this challenge.
